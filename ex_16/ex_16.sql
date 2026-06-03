@@ -1,0 +1,2 @@
+DELETE FROM MOVIES
+WHERE prod_years = 0;
